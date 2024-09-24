@@ -673,14 +673,4 @@ form {
   top: 2100px;
   left: 65%;
 }
-
-@media (max-width: 768px) {
-  .wrapper7-items {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-
-  .footer-section {
-    margin-bottom: 20px;
-  }
-}
+ 
